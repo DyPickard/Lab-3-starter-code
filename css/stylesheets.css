@@ -1,0 +1,59 @@
+caption {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+tbody tr {
+    color: whitesmoke;
+
+}
+
+tbody td,
+tbody th {
+    border: 0.5px solid gray;
+    text-align: center;
+    width: 1.5em;
+    height: 1.5em;
+    background-color: lightgray;
+    font-weight: bold;
+    font-size: small;
+}
+
+tbody th {
+    width: 1em;
+    height: 1em;
+}
+
+table {
+    background-color: whitesmoke;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+}
+
+tbody td:hover {
+    background-color: red;
+    color: white;
+}
+
+tfoot td {
+    font-size: xx-small;
+}
+
+form {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: goldenrod;
+    font-weight: bold;
+    width: 25em;
+}
+
+#today {
+    background-color: aqua;
+    color: white;
+}
+
+#today:hover {
+    background-color: red;
+    color: white;
+}
